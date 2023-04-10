@@ -16,16 +16,3 @@
     <img style="width: 30px; height: 30px; background-color: white; padding: 3px; border-radius: 10px" src="./twitter.png" target="_blank">
   </a> 
 </div>
-
-<div style="height: 1px; margin-bottom: 20px; margin-top: 20px; box-shadow: 0px 5px 2px 1px #c0f5b3;"></div> 
-
-## Languages
-
-<div style="display: flex; flex-direction: row;">
- <img align="center" alt="Jonatascm-Solidity" height="30" width="30" style="background-color: white; margin-right: 20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg">
- <img align="center" alt="Jonatascm-Javascript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-</div>
-
-## Work
-
- 
