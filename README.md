@@ -1,22 +1,32 @@
-# About me
+
+<div style="height: 1px; margin-bottom: 20px; margin-top: 20px; box-shadow: 0px 3px 4px 0px #c0f5b3;"></div> 
+
+## About me
 
  I'm currently working as an independent Smart Contract Auditor and Associate Security Researcher at Spearbit, I have experience auditing smart contracts and identifying potential vulnerabilities. I have also worked on private audits and bug bounties, further developing my skills in this field. Prior to my work in Web3, I worked for 4.5 years as a Full Stack Developer in Web2.
 
- # Languages
+<br/><br/>
+ <div> 
+  <a href = "mailto:jonatas.pvt@gmail.com" style="margin-right: 5px">
+    <img style="width: 30px; height: 30px; background-color: white; padding: 3px; border-radius: 10px" src="./gmail.png" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/jonatas-cmartins" target="_blank" style="margin-right: 5px">
+    <img style="width: 30px; height: 30px; background-color: #0077B5; padding: 3px; border-radius: 10px" src="./linkedin.png" target="_blank">
+  </a> 
+  <a href="https://www.linkedin.com/in/jonatas-cmartins" target="_blank">
+    <img style="width: 30px; height: 30px; background-color: white; padding: 3px; border-radius: 10px" src="./twitter.png" target="_blank">
+  </a> 
+</div>
+
+<div style="height: 1px; margin-bottom: 20px; margin-top: 20px; box-shadow: 0px 3px 4px 0px #c0f5b3;"></div> 
+
+## Languages
 
 <div style="display: flex; flex-direction: row;">
  <img align="center" alt="Jonatascm-Solidity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg">
  <img align="center" alt="Jonatascm-Solidity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </div>
-</br></br></br></br>
 
-# Work
+## Work
 
-# Contact
-
- <div> 
-  <a href = "mailto:jonatas.pvt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jonatas-cmartins" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://twitter.com/jonataspvt" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23eee?style=for-the-badge&logo=twitter&logoColor=blue" target="_blank"></a>
-  
-</div>
+ 
