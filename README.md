@@ -1,7 +1,7 @@
-## Results {.tabset}
+=== "tab_1"
 
-### Tab One
+    Content of tab_1  
 
-### Tab Two
+=== "tab_2"
 
-## {-}
+    Content of tab_2  
