@@ -22,8 +22,8 @@
 ## Languages
 
 <div style="display: flex; flex-direction: row;">
- <img align="center" alt="Jonatascm-Solidity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg">
- <img align="center" alt="Jonatascm-Solidity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+ <img align="center" alt="Jonatascm-Solidity" height="30" width="30" style="background-color: white; margin-right: 20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg">
+ <img align="center" alt="Jonatascm-Javascript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </div>
 
 ## Work
