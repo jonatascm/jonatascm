@@ -4,9 +4,11 @@
 
  # Languages
 
+<div style="display: flex; flex-direction: row;">
  <img align="center" alt="Jonatascm-Solidity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg">
  <img align="center" alt="Jonatascm-Solidity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-</br></br></br></br></br>
+</div>
+</br></br></br></br>
 
 # Work
 
